@@ -1,6 +1,26 @@
 # Project-Living-Under-a-Rock-
 This is a protocol to catch me up to speed after living in an information and learning blackout while the world continues normal life. Think similar to what Captain America had to do when waking up in current day after "time traveling" the hard way. 
 
+-Presentation Format
+This is not a coding project. I know that GitHub is made for coding, but this is not that. However, I will likely be using subsections and hyperlinks if possible. This may look more like a wiki or a document repository than a coding project. 
+
+
+-What This Is
+This is intended to be documentation. It would potentially be better suited for this to be a hybrid of LinkedIn social posting and this, or a blog. However, Social Media is off limits for me at this time.
+
+This is intended to show how I've been trying to keep skills alive, albeit through the limited means available to me. It is also to show how I've tried to learn through real world usage of tools available to me. In addition, it's intended to show how one can try to keep hope alive on an extremely constrained learning budget with most of the conventional learning and implementation resources blacked out per court restrictions.
+
+
+-What This is Not
+This is not a complaint of court conditions. Rather, it is showing how someone can work within court conditions while still trying to keep their professional skill set alive (albeit degraded due to lack of real world usage.)
+
+This is not a disclosure of why I am in this limited situation. I acknowledge that I am functioning in a state that is less capability (aka degraded) than my prior life. I will not disclose my exact reasons for this state, nor the full set of court imposed restrictions, as that would be tantamount to disclosing full charges. It is not best practice to do so, nor is it helpful to move forward in a positive mindset. We are here to show I can function within and contribute to society given the opportunity, not excoriation.
+
+This is not social media. I am not actively courting people to comment on this. It is indeed public, so future potential employers can look over what I have been doing. If you are a prospective employer, or someone in a similar situatuon as I am in, or even someone who is interested and wants to give me encouragement, feel free to reach out. One to one communication is allowed. 
+
+
+
+
 ------
 History
 
