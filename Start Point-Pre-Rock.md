@@ -1,0 +1,1 @@
+This is to document starting conditions prior to my "Living Under A Rock" aka "time traveling the hard way".
